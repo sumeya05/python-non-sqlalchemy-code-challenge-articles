@@ -1,4 +1,6 @@
+# code challenge of this week
 class Author:
+
     all = []
 
     def __init__(self, name):
